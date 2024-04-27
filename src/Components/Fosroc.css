@@ -1,0 +1,41 @@
+.f1 {
+  width: 15vw;
+  height: 34vh;
+  position: relative;
+  top: 18%;
+}
+.wl {
+  height: 34vh;
+  width: 22vw;
+  border-radius: 5%;
+  position: relative;
+  right: -10%;
+  top: 4%;
+}
+
+.fosroc_Logo {
+  height: 250vh;
+}
+.g {
+  position: relative;
+  z-index: 1;
+  right: -45%;
+  top: 3%;
+  border-radius: 5px;
+  width: 25%;
+  height: 10%;
+}
+.adhesives {
+  position: relative;
+  top: 30%;
+  border-radius: 10%;
+  right: 40%;
+}
+
+.sealant {
+  height: 30vh;
+  position: relative;
+  right: 65%;
+  top: 30%;
+  border-radius: 10%;
+}

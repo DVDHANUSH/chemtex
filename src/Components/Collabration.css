@@ -1,0 +1,174 @@
+.collabration {
+  display: flex;
+  background-color: #cfdff6;
+}
+@media screen and (max-width: 1250px) and (min-width: 950px) {
+  .hs {
+    position: relative;
+    height: 15%;
+    left: 86%;
+    top: 54%;
+  }
+  .companies .c1text .h4text {
+    text-align: center;
+    position: relative;
+    left: 59%;
+  }
+  .companies .c1text .h3text {
+    text-align: center;
+    position: relative;
+    left: 58%;
+  }
+  .collabration .svc {
+    width: 48vw;
+    height: 100vh;
+    background-color: rgb(237, 250, 60);
+  }
+  .c1 {
+    width: 5vw;
+    height: 15vh;
+    position: relative;
+    left: 95%;
+  }
+  .c2 {
+    width: 25vw;
+    height: 10vh;
+    position: relative;
+    left: 59%;
+    margin-top: 40px;
+  }
+  .cc3 {
+    display: flex;
+    position: relative;
+    left: 23%;
+    margin-top: 5%;
+  }
+  .c3 {
+    width: 25vw;
+    height: 25vh;
+    position: relative;
+    left: 15%;
+  }
+  .c4 {
+    width: 34vw;
+    height: 35vh;
+    position: relative;
+    left: 11%;
+    margin-top: 0px;
+    top: -35px;
+  }
+  .svctext {
+    position: relative;
+    top: -45%;
+    left: 5%;
+  }
+  .c5 {
+    width: 10vw;
+    height: 15vh;
+    position: relative;
+    left: 12%;
+    top: -35px;
+  }
+  .c6 {
+    position: relative;
+    left: 59%;
+    top: -35px;
+  }
+  .cc4 {
+    display: flex;
+    position: relative;
+    left: 18%;
+    margin-top: 0%;
+  }
+  .companies {
+    width: 300px;
+  }
+  .svc_image {
+    position: relative;
+    left: 15%;
+    top: -165px;
+  }
+}
+@media screen and (max-width: 550px) and (min-width: 350px) {
+  .companies .c1text .h4text {
+    text-align: center;
+    position: relative;
+    left: 18%;
+  }
+
+  .companies {
+    position: relative;
+    left: -680px;
+  }
+  .svc_image,
+  .svc {
+    visibility: hidden;
+  }
+
+  .hs {
+    visibility: hidden;
+  }
+  .companies .c1text .h3text {
+    text-align: center;
+    position: relative;
+    left: 18%;
+  }
+  .c1 {
+    width: 15vw;
+    height: 10vh;
+    position: relative;
+    left: 54%;
+  }
+
+  .c2 {
+    width: 55vw;
+    height: 5vh;
+    position: relative;
+    left: 30%;
+    margin-top: 40px;
+  }
+  .cc3 {
+    display: flex;
+    position: relative;
+    left: -14%;
+    margin-top: 5%;
+  }
+  .c3 {
+    width: 23vw;
+    height: 15vh;
+    position: relative;
+    left: 35%;
+  }
+
+  .c4 {
+    width: 54vw;
+    height: 25vh;
+    position: relative;
+    left: 45%;
+    top: -35px;
+  }
+  .c5 {
+    width: 14vw;
+    height: 9vh;
+    position: relative;
+    left: 65%;
+    top: -45px;
+  }
+  .c6 {
+    width: 40vw;
+    height: 10vh;
+    position: relative;
+    left: 85%;
+    top: -45px;
+  }
+
+  .cc4 {
+    display: flex;
+    position: relative;
+    left: -45%;
+    margin-top: 0%;
+  }
+  .collabration {
+    height: 650px;
+  }
+}

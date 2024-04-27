@@ -1,0 +1,139 @@
+@media screen and (max-width: 550px) and (min-width: 350px) {
+  .f1 {
+    width: 15em;
+    height: 34em;
+    position: relative;
+    top: 1.8em;
+    font-size: 1.6em; /* This will be relative to the font size of the parent element */
+  }
+  .wl {
+    height: 19vh;
+    width: 34vw;
+    border-radius: 5%;
+    position: relative;
+    right: 5%;
+    top: 4%;
+  }
+
+  .fosroc_Logo {
+    position: relative;
+    right: 0vh;
+    bottom: 0%;
+    width: 10rem;
+    height: 10rem;
+    padding-bottom: 6px;
+  }
+  .g {
+    position: relative;
+    z-index: 1;
+    right: -60%;
+    top: 0;
+    border-radius: 5px;
+    height: 19vh;
+    width: 34vw;
+  }
+  .adhesives {
+    position: relative;
+    top: 8%;
+    border-radius: 10%;
+    right: 5%;
+    height: 19vh;
+    width: 34vw;
+  }
+
+  .sealant {
+    position: relative;
+    height: 19vh;
+    width: 34vw;
+    right: -55%;
+    top: 10%;
+    border-radius: 10%;
+  }
+
+  .waterproofing_text {
+    position: relative;
+    right: 0.3em;
+  }
+  .grouts_text {
+    position: relative;
+    right: -4.1em;
+  }
+  .adhesives_text {
+    position: relative;
+    right: 0.3em;
+  }
+  .sealents_text {
+    position: relative;
+    right: -4.1em;
+  }
+}
+
+@media screen and (max-width: 1250px) and (min-width: 950px) {
+  .f1 {
+    width: 15em;
+    height: 34em;
+    position: relative;
+    top: 1.8em;
+    font-size: 1.6em; /* This will be relative to the font size of the parent element */
+  }
+  .wl {
+    height: 23vh;
+    width: 15vw;
+    border-radius: 5%;
+    position: relative;
+    right: -50%;
+    top: 4%;
+  }
+
+  .fosroc_Logo {
+    position: relative;
+    right: -19vh;
+    bottom: 0%;
+    width: 15rem;
+    height: 15rem;
+  }
+  .g {
+    position: relative;
+    z-index: 1;
+    right: 3%;
+    top: 0;
+    border-radius: 5px;
+    width: 15vw;
+    height: 23vh;
+  }
+  .adhesives {
+    position: relative;
+    top: 8%;
+    border-radius: 10%;
+    right: -50%;
+    width: 15vw;
+    height: 23vh;
+  }
+
+  .sealant {
+    height: 30vh;
+    position: relative;
+    width: 15vw;
+    height: 23vh;
+    right: 6%;
+    top: 10%;
+    border-radius: 10%;
+  }
+
+  .waterproofing_text {
+    position: relative;
+    right: -3.5em;
+  }
+  .grouts_text {
+    position: relative;
+    right: 4em;
+  }
+  .adhesives_text {
+    position: relative;
+    right: -3.5em;
+  }
+  .sealents_text {
+    position: relative;
+    right: 4em;
+  }
+}
